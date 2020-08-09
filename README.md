@@ -11,7 +11,7 @@
 
 
 [<img align="left" alt="Twitter" width="22px" src="http://i.imgur.com/tXSoThF.png"/>](https://twitter.com/anithethinker)
-[<img align="left" alt="LinkedIn" width="22px" src="linkedin.svg"/>](https://www.linkedin.com/in/anirban-ganguly-0446a41b1/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png"/>](https://www.linkedin.com/in/anirban-ganguly-0446a41b1/)
 
 <br />
 
