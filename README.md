@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="html5.svg/>]
+<img align="left" alt="HTML5" width="26px" src="html5.svg/>
 [<img align="left" alt="CSS3" width="26px" src="css3.svg/>]
 [<img align="left" alt="Sass" width="26px" src="sass.svg/>]
 [<img align="left" alt="JavaScript" width="26px" src="javascript.svg/>]
