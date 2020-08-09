@@ -10,7 +10,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Twitter" width="22px" src="twitter.svg"/>](https://twitter.com/anithethinker)
+[<img align="left" alt="Twitter" width="22px" src="http://i.imgur.com/tXSoThF.png"/>](https://twitter.com/anithethinker)
 [<img align="left" alt="LinkedIn" width="22px" src="linkedin.svg"/>](https://www.linkedin.com/in/anirban-ganguly-0446a41b1/)
 
 <br />
