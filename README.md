@@ -1,4 +1,4 @@
-### Hi there, I'm Anirban - aka [Aniban-dev93][website] 👋
+### Hi there, I'm **Anirban** - aka *Aniban-dev93* 👋
 
 ## I'm a Student, Web Developer and Wordpress Developer! 
 - 🔭 I’m currently working on my Javascript skills
@@ -17,13 +17,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="html5.svg"/>]
-[<img align="left" alt="CSS3" width="26px" src="css3.svg"/>]
-[<img align="left" alt="Sass" width="26px" src="sass.svg"/>]
-[<img align="left" alt="JavaScript" width="26px" src="javascript.svg"/>]
-[<img align="left" alt="GitHub" width="26px" src="github.svg"/>]
+[<img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg"/>]
+[<img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg"/>]
+[<img align="left" alt="Sass" width="26px" src="https://simpleicons.org/icons/sass.svg"/>]
+[<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg"/>]
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/github-24x24.png"/>]
+[<img align="left" alt="atom" width="26px" src="https://simpleicons.org/icons/atom.svg"/>]
+[<img align="left" alt="bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg"/>]
 
 <br />
 <br />
-
----
